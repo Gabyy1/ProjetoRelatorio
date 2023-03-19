@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+
+.table_round {
+	border: 1px slid black;
+	border-radius: 10px;
+	font-size: 40px;
+}
+
+.dash {
+	background: #93F6F8;
+	font-size: 40px;
+}
+
+.th_dash {
+	background: #1B1578;
+	color: white;
+	font-size: 40px;
+}
+
+.td_dash {
+	background:#f96585;
+	font-size: 40px;
+}
+
+.td_dash1 {
+	background:#f98585;
+	font-size: 40px;
+}
+
+.td_dash2 {
+	background:#f9a385;
+	font-size: 40px;
+}
+.td_dash3 {
+	background:#FFC18F;
+	font-size: 40px;
+}
+
+.tot {
+	background: #998784;
+	font-size: 40px;
+}
+
+
+.dashh:hover{ 
+	background: #3fc3a2;
+	transition: 0.2s;
+	opacity: 0.8;
+}
+
+.menu {
+	font-size: 80px;
+}
+
+.title {
+	font-size: 20px;
+}
